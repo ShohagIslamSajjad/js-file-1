@@ -1,0 +1,23 @@
+.ul-items li{
+    display: inline-block;
+}
+.ul-items li a{
+    color:aquamarine;
+    text-decoration: none;
+    padding: 10px;
+   
+    
+}
+.ul-items li a:hover{
+    border: 1px solid aquamarine;
+    border-radius: 5px;
+}
+.div-hover:hover{
+    filter: opacity(80%);
+}
+.store{
+    height: 400px;
+    overflow-x: auto;
+    overflow-y: auto;
+   
+}
